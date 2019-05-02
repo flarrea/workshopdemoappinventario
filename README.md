@@ -160,12 +160,6 @@ Visual Studio Code: https://code.visualstudio.com/download
 
 variables de sistema: https://cordova.apache.org/docs/en/8.x/guide/platforms/android/#setting-environment-variables
 
-Saludos.
-
-On Wed, Oct 31, 2018 at 9:13 PM Natalia Andrea Voitmann Rocha natalia.voitmann@aiep.cl wrote: Francisco:
-
-Por favor indicarme de donde se obtienen todos los requerimientos que solicitas y como se configuran las variables de entorno, así puedo solicitar a TI que las instalen.
-
 Instalar node.js (6.10.1), npm (1.10.10), android-sdk (mínimo api 19) o android studio, Java Development Kit (JDK)(mínimo versión 8), Gradle, Ionic 3 (versión 3.19.0) y cordova(7.1.0). Finalmente, Git y Visual Studio Code u otro editor.
 
 No olvidar configurar las variables de entorno para android, jdk y gradle.
